@@ -12,3 +12,4 @@ var condition = [
 ];
 
 console.log(fill(arr, condition, 3, 0));
+
